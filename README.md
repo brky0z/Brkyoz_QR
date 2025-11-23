@@ -17,7 +17,7 @@ C# ve .NET Framework kullanılarak geliştirilmiş, hepsi bir arada QR Kod yöne
 * Visual Studio 2022
 
 ## 📷 Ekran Görüntüsü
-qr.png
+![QR Canavarı Ekran Görüntüsü](qr.png)
 
 ---
 Developed by **Mehmet Berkay Özdemir** | 
