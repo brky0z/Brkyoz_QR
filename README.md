@@ -20,4 +20,4 @@ C# ve .NET Framework kullanılarak geliştirilmiş, hepsi bir arada QR Kod yöne
 ![QR Canavarı Ekran Görüntüsü](qr.png)
 
 ---
-*Developed by Mehmet Berkay Özdemir*
+*Developed by **Mehmet Berkay Özdemir***
